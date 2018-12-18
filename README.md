@@ -8,7 +8,7 @@ Declares two integers and two doubles, then computes and displays their sum, dif
 Reads in grades input by the user, then computes and displays their average.
 
 # Project 3
-Prompts the user for minimum grades to receive a letter grade, then asks for a student's grade. The program will display the letter grade of the student according to the user's grading levels
+Prompts the user for minimum grades to receive a letter grade, then asks for a student's grade. The program will display the letter grade of the student according to the user's grading levels.
 
 # Project 4
 Prompts the user for the salary or hourly wage, then determines their weekly pay.
