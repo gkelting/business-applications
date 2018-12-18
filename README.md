@@ -15,7 +15,7 @@ Prompts the user for the salary or hourly wage, then determines their weekly pay
 
 - If salary, their wage is divided by 52 (the number of weeks in a year) and displayed to the console.
 
-- If hourly, the user is prompted for how many hours they worked that week. If the number is over 40, overtime is computed. Their weekly wage is also displayed to the console.
+- If hourly, the user is prompted for how many hours they worked that week. Their wage is computed by their hourly wage multiplied by the hours worked. If the hours worked is over 40, overtime is also computed. Their weekly wage is displayed to the console.
 
 # Project 5
 Displays a menu to the user for "Rent-A-Wreck." The methods the user can choose from include: adding a car to the inventory, renting a car, returning a car, removing a car, and exiting the menu. 
